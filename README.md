@@ -1,3 +1,9 @@
+From: https://github.com/sifive/freedom, just put submodules into here. but lack of some files cause some files are big.
+lack two main directory:
+
+nvidia-dla-blocks/hw/verif/tests
+rocket-chip/riscv-tools 
+
 Freedom
 =======
 
